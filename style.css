@@ -52,7 +52,7 @@ footer{
 
 }
 .photo_profile{
-    width: 180px;
+    width: 25%;
     height: auto;
     border-radius: 60%;
     display: flex;
@@ -97,7 +97,7 @@ strong{
 
 .enlaces_link{
     padding: 25px 20px;
-    width: 600px;
+    width: 50%;
     background-color: #93ca13cb;
     text-align: center;
     border-radius: 16px;
